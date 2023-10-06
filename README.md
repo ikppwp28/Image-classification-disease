@@ -4,7 +4,7 @@ This repository contains two projects focused on disease classification using de
 
 ## Project 1: Pneumonia Classification - Normal vs. Pneumonia
 
-![Pneumonia Image]([link_to_pneumonia_image.png](https://dk4fkkwa4o9l0.cloudfront.net/production/uploads/article/image/1321/PNM.png))
+![Pneumonia Image](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2016/05/18/13/02/ww5r032t-8col-jpg.jpg)
 
 In the first project, we tackle the critical task of classifying chest X-ray images into two categories: normal and pneumonia. This binary classification is vital for early detection and diagnosis of pneumonia, a common respiratory disease.
 
